@@ -10,7 +10,7 @@ I am a Biomedical Systems Engineer currently pursuing a Master's degree in Bioen
 
 #### 🚀 Featured Projects
 - **Eye Tracking for ASD Evaluation:** Developed a Python-based analysis workflow analyzing a 52-pediatric-patient dataset. Implemented and compared MLP and Bidirectional LSTM models in TensorFlow/Keras to support Autism Spectrum Disorder diagnosis.
-- **BloodMNIST Classification:** Comparative deep learning analysis using CNN and ViT-B/16 architectures with PyTorch and 5-fold cross-validation.
+- **BloodMNIST Classification:** Comparative deep learning analysis using ResNet18 and ViT-B/16 architectures with PyTorch and 5-fold cross-validation.
 - **Artificial Neuron Simulation:** Simulated and modified circuit designs in LTspice to generate exponentially decaying synaptic currents.
 - **Gaze Data Analysis with Pupil Neon:** Conducted experimental data acquisition and structural quality analysis using the Pupil Neon eye tracking device.
 
